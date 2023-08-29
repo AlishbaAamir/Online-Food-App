@@ -1,6 +1,6 @@
 # Online Food App
 # Live URL
-https://real-teal-dolphin-tie.cyclic.cloud
+https://adorable-sweatsuit-goat.cyclic.cloud/
 
 # Technologies Used
 #### 1.Frontend: React
