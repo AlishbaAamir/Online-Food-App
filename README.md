@@ -20,9 +20,7 @@ Welcome to Foodie.com! This project is a full-stack application built using the 
 
 - *Responsive UI:* The application offers a responsive and user-friendly user interface.
 
-- ## Video
-- 
-
+ ## Video
 
 https://github.com/AlishbaAamir/Online-Food-App/assets/126007592/11b2a3d4-910d-46ab-9505-4e88fda0a00d
 
