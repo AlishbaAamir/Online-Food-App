@@ -20,6 +20,13 @@ Welcome to Foodie.com! This project is a full-stack application built using the 
 
 - *Responsive UI:* The application offers a responsive and user-friendly user interface.
 
+- ## Video
+- 
+
+
+https://github.com/AlishbaAamir/Online-Food-App/assets/126007592/11b2a3d4-910d-46ab-9505-4e88fda0a00d
+
+
 # Technologies Used
 #### 1.Frontend: React
 #### 2.Backend: Express.js
@@ -201,8 +208,22 @@ Welcome to Foodie.com! This project is a full-stack application built using the 
 | :-------- | :------- | :-------------------------------- |
 | id     | `string` | **Required**. item _id |
 
+#### All Order
+```http
+  GET /api/allOrders
+```
+| Description                |
+| :------------------------- |
+| Display All customer Order |
 
+#### Search Order BY id
+```http
+  GET /api/orderById
+```
 
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| id     | `string` | **Required**. order _id |
 
 
 
