@@ -1,6 +1,24 @@
-# Online Food App
+# Foodie.com - MERN Stack
 # Live URL
-https://adorable-sweatsuit-goat.cyclic.cloud/
+https://spring-bud-stingray-gown.cyclic.app
+
+Welcome to Foodie.com! This project is a full-stack application built using the MERN (MongoDB, Express, React, Node.js) stack. It aims to provide an online platform for ordering delicious food.
+
+## Features
+
+- *User Registration and Authentication System:* Users can register and log in securely.
+
+- *Product Browsing:* Browse food items by categories, names, descriptions, and prices.
+
+- *Shopping Cart:* Add food items to the cart and proceed to the checkout process.
+
+- *Order Tracking:* Receive email notifications for order status and delivery updates.
+
+- *Product Reviews and Ratings:* Users can share their feedback through reviews and ratings.
+
+- *User Profiles:* Manage user profiles and view order history.
+
+- *Responsive UI:* The application offers a responsive and user-friendly user interface.
 
 # Technologies Used
 #### 1.Frontend: React
